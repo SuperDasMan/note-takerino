@@ -46,12 +46,12 @@ Check out the badges hosted by [shields.io](https://shields.io/).
 
 ## Contributing
 
-undefined
+This was a solo project.
 
 
 ## Tests
 
-undefined
+Jest - TDD on each function within the separate modules to reduce likelihood of errors
 
 
 ## Questions
