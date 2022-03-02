@@ -68,7 +68,6 @@ const renderActiveNote = () => {
 
 const handleNoteSave = () => {
   const newNote = {
-    id: uniqid(),
     title: noteTitle.value,
     text: noteText.value,
   };
