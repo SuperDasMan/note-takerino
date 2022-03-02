@@ -1,0 +1,17 @@
+{
+  "name": "note-takerino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Josh West",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "uniqid": "^5.4.0",
+    "uuid": "^8.3.2"
+  }
+}
